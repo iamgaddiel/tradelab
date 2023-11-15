@@ -1,0 +1,40 @@
+
+
+.tabh1 {  
+    font-style: bold;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.tradetab { 
+    border-bottom: 6px solid  #b75800;
+    margin-bottom: 2px;
+    padding-bottom: 8px;
+}
+
+.swith{ 
+    background: #4d043f;
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: orange;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+ion-radio {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    margin: 5px;
+    margin-top: 15px;
+  }
+.lh1 { 
+    font-size: 18px;
+    font-weight: bolder; 
+}
+
+.tradetext {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}

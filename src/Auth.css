@@ -1,0 +1,25 @@
+.logo { 
+  margin-top: 10%;
+  width: 70px;   
+}
+.h1 { 
+    font-size: 50px;
+}
+
+
+.customInput {
+
+    --background: none;
+    border-radius: 10px;
+    width: 100%; 
+    border-top: 1px solid #ea8c00;
+}
+
+.regbtn{ 
+    --background: #ea8c00 !important;
+    --background-focused: #672e00 !important;
+}
+
+.linklogin { 
+    color: #ea8c00;
+}

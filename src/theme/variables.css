@@ -1,0 +1,72 @@
+/* Ionic Variables and Theming. For more info, please see:
+http://ionicframework.com/docs/theming/ */
+
+ 
+ 
+/** Ionic CSS Variables **/
+:root {
+	--ion-color-primary: #2E1A2F;
+	--ion-color-primary-rgb: 46,26,47;
+	--ion-color-primary-contrast: #ffffff;
+	--ion-color-primary-contrast-rgb: 255,255,255;
+	--ion-color-primary-shade: #281729;
+	--ion-color-primary-tint: #433144;
+
+	--ion-color-secondary: #FF9800;
+	--ion-color-secondary-rgb: 255,152,0;
+	--ion-color-secondary-contrast: #000000;
+	--ion-color-secondary-contrast-rgb: 0,0,0;
+	--ion-color-secondary-shade: #e08600;
+	--ion-color-secondary-tint: #ffa21a;
+
+	--ion-color-tertiary: #5260ff;
+	--ion-color-tertiary-rgb: 82,96,255;
+	--ion-color-tertiary-contrast: #ffffff;
+	--ion-color-tertiary-contrast-rgb: 255,255,255;
+	--ion-color-tertiary-shade: #4854e0;
+	--ion-color-tertiary-tint: #6370ff;
+
+	--ion-color-success: #4CAF50;
+	--ion-color-success-rgb: 76,175,80;
+	--ion-color-success-contrast: #000000;
+	--ion-color-success-contrast-rgb: 0,0,0;
+	--ion-color-success-shade: #439a46;
+	--ion-color-success-tint: #5eb762;
+
+	--ion-color-warning: #FFD600;
+	--ion-color-warning-rgb: 255,214,0;
+	--ion-color-warning-contrast: #000000;
+	--ion-color-warning-contrast-rgb: 0,0,0;
+	--ion-color-warning-shade: #e0bc00;
+	--ion-color-warning-tint: #ffda1a;
+
+	--ion-color-danger: #FF5252;
+	--ion-color-danger-rgb: 255,82,82;
+	--ion-color-danger-contrast: #000000;
+	--ion-color-danger-contrast-rgb: 0,0,0;
+	--ion-color-danger-shade: #e04848;
+	--ion-color-danger-tint: #ff6363;
+
+	--ion-color-medium: #757575;
+	--ion-color-medium-rgb: 117,117,117;
+	--ion-color-medium-contrast: #ffffff;
+	--ion-color-medium-contrast-rgb: 255,255,255;
+	--ion-color-medium-shade: #676767;
+	--ion-color-medium-tint: #838383;
+
+	--ion-color-light: #FFFFFF;
+	--ion-color-light-rgb: 255,255,255;
+	--ion-color-light-contrast: #000000;
+	--ion-color-light-contrast-rgb: 0,0,0;
+	--ion-color-light-shade: #e0e0e0;
+	--ion-color-light-tint: #ffffff;
+
+}
+
+
+
+html {
+  /* For more information on dynamic font scaling, visit the documentation: 
+  https://ionicframework.com/docs/layout/dynamic-font-scaling */
+  --ion-dynamic-font: var(--ion-default-dynamic-font);
+}

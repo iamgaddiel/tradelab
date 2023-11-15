@@ -1,0 +1,56 @@
+
+
+.tabh1 {  
+    font-style: bold;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    
+}
+
+.tradetab{ 
+    border-bottom: 6px solid  #b75800;
+    margin-bottom: 2px;
+    padding-bottom: 8px;
+}
+
+.swith{ 
+    background: #4d043f;
+    margin: 5px;
+    border-radius: 7px; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 4px solid #b75800;
+}
+.swith2{ 
+    background: #300226;
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: orange;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 4px solid  #4d043f;
+}
+
+
+.trade_check {    
+    margin-top: 15px;
+  }
+.lh1 { 
+    font-size: 18px;
+    font-weight: bolder; 
+}
+
+.tradetext {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.selectby {
+    margin: 10px !important;
+    margin-left: 2px !important;
+}
+.mt-2 {
+    
+}
+
+
